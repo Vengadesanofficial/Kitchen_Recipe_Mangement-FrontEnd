@@ -1,0 +1,25 @@
+.saved-maincontainer{
+    width: 100%;
+    height: 200vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-self: center;
+  align-items: center;
+overflow: hidden;
+flex-wrap: wrap;
+  
+  
+}
+.savedcard{
+  height: 200vh;
+  width: 100%;
+display: flex;
+flex-direction: row;
+/* overflow: hidden; */
+overflow: hidden;
+ flex-wrap: wrap;
+ justify-content: center;
+ text-align: center;
+ 
+}
