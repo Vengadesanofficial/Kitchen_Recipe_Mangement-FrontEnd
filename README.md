@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In the front end, I have used React, HTML, CSS, and some npm packages to create a responsive kitchen recipe management application. In this application, users can add, edit, and save recipes, and create accounts. I have also implemented authentication and authorization; for example, users can't save recipes without registering or logging in, and each user can view only what they have created.
 
 Currently, two official plugins are available:
 
